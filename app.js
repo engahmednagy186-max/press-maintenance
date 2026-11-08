@@ -13,7 +13,7 @@ const dataTree = {
           { name: "اعطال بالعربى", url: "https://drive.google.com/file/d/1l1eYnE-R46dSu-VBcT9RVpu-wvQ3TXfB/view?usp=drive_link" },
           { name: "قطع غيار", url: "https://drive.google.com/file/d/1KSCYVQpswROo185bV9PEbSETJiIt16Pg/view?usp=sharing" },
           { name: "مانوال", url: "https://drive.google.com/drive/folders/YOUR_OMG_MANUAL_LINK" },
-          { name: "اعطال كاملة", url: "https://drive.google.com/file/d/1l1eYnE-R46dSu-VBcT9RVpu-wvQ3TXfB/view?usp=drive_link" }
+          { name: "اعطال كاملة", url: "https://drive.google.com/file/d/1l1eYnE-R46dSu-VBcT9RVpu-wvQ3TXfB/view?usp=sharing" }
         ]
       },
       jh: {
@@ -21,9 +21,9 @@ const dataTree = {
         icon: "bi-gear-wide-connected",
         documents: [
           { name: "اعطال بالعربى", url: "https://drive.google.com/drive/folders/YOUR_JH_FAULTS_LINK" },
-          { name: "قطع غيار", url: "https://drive.google.com/file/d/1Bc1NP-mD54n5Bd7QQXCGmTDi3W_tWtne/view?usp=drive_link" },
-          { name: "مانوال", url: "https://drive.google.com/file/d/1UKdmT4KzekL_J6R8TF21CyPWzRM6X1SA/view?usp=drive_link" },
-          { name: "اعطال كاملة", url: "https://drive.google.com/file/d/1wdj-masIzI1K4W2uNqnx_3YwB4pqvheY/view?usp=drive_link" }
+          { name: "قطع غيار", url: "https://drive.google.com/file/d/1Bc1NP-mD54n5Bd7QQXCGmTDi3W_tWtne/view?usp=sharing" },
+          { name: "مانوال", url: "https://drive.google.com/file/d/1UKdmT4KzekL_J6R8TF21CyPWzRM6X1SA/view?usp=sharing" },
+          { name: "اعطال كاملة", url: "https://drive.google.com/file/d/1wdj-masIzI1K4W2uNqnx_3YwB4pqvheY/view?usp=sharing" }
         ]
       },
       still: {
@@ -31,8 +31,8 @@ const dataTree = {
         icon: "bi-gear-wide-connected",
         documents: [
           { name: "اعطال بالعربى", url: "https://drive.google.com/drive/folders/YOUR_STILL_FAULTS_LINK" },
-          { name: "قطع غيار", url: "https://drive.google.com/file/d/10GiE9f_YectRu5S5DFmmQg6Xnwep8C4i/view?usp=drive_link" },
-          { name: "مانوال", url: "https://drive.google.com/file/d/1WPHlKsE1MCxI9w8F3M-1NqrkH1mLlb2D/view?usp=drive_link" },
+          { name: "قطع غيار", url: "https://drive.google.com/file/d/10GiE9f_YectRu5S5DFmmQg6Xnwep8C4i/view?usp=sharing" },
+          { name: "مانوال", url: "https://drive.google.com/file/d/1WPHlKsE1MCxI9w8F3M-1NqrkH1mLlb2D/view?usp=sharing" },
           { name: "اعطال كاملة", url: "https://drive.google.com/drive/folders/YOUR_STILL_PARTS_2_LINK" }
         ]
       }
