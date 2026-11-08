@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&display=swap');
+
+:root {
+  --bg-dark: #121820;
+  --card-bg: #1c2430;
+  --card-border: #2d3748;
+  --accent-yellow: #f59e0b;
+  --text-main: #f8fafc;
+  --text-sub: #94a3b8;
+}
+
+body {
+  font-family: 'Cairo', sans-serif;
+  background-color: var(--bg-dark);
+  color: var(--text-main);
+  min-height: 100vh;
+}
+
+/* Header */
+.app-header {
+  background-color: #17202c;
+  border-bottom: 2px solid var(--accent-yellow);
+}
+
+.text-light-50 {
+  color: var(--text-sub);
+}
+
+/* Breadcrumb */
+.breadcrumb-item a {
+  color: var(--accent-yellow);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.breadcrumb-item.active {
+  color: #cbd5e1;
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+  color: var(--text-sub);
+}
+
+/* Action Cards */
+.nav-box {
+  background-color: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 12px;
+  padding: 1.5rem;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.nav-box:hover {
+  transform: translateY(-4px);
+  border-color: var(--accent-yellow);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+}
+
+.nav-box .icon-wrap {
+  font-size: 2.2rem;
+  color: var(--accent-yellow);
+  margin-bottom: 0.75rem;
+}
+
+.nav-box .box-title {
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin: 0;
+  color: var(--text-main);
+}
+
+/* Google Drive Final Action Link */
+.drive-box {
+  background-color: #182739;
+  border-left: 4px solid var(--accent-yellow);
+}
+
+.drive-box:hover {
+  background-color: #20334c;
+}
+
+.drive-box .box-title {
+  color: #ffffff;
+}
+
+.drive-indicator {
+  font-size: 0.8rem;
+  color: var(--accent-yellow);
+  margin-top: 0.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
