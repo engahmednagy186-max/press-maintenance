@@ -9,10 +9,8 @@ const dataTree = {
         title: "كلارك OMG",
         icon: "bi-gear-wide-connected",
         documents: [
-		                            
           { name: "اعطال بالعربى", url: "https://drive.google.com/file/d/1l1eYnE-R46dSu-VBcT9RVpu-wvQ3TXfB/view?usp=drive_link" },
           { name: "قطع غيار", url: "https://drive.google.com/file/d/1KSCYVQpswROo185bV9PEbSETJiIt16Pg/view?usp=sharing" },
-          
           { name: "اعطال كاملة", url: "https://drive.google.com/file/d/1l1eYnE-R46dSu-VBcT9RVpu-wvQ3TXfB/view?usp=sharing" }
         ]
       },
