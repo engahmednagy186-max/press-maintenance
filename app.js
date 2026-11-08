@@ -47,7 +47,7 @@ const dataTree = {
         icon: "bi-hdd-network",
         documents: [
           { name: "اعطال بالعربى", url: "https://drive.google.com/drive/folders/YOUR_V20_FAULTS_LINK" },
-          { name: "مانوال", url: "https://drive.google.com/drive/folders/YOUR_V20_MANUAL_LINK" },
+          { name: "مانوال", url: "https://drive.google.com/file/d/1KYrIiwUuN7ettgo5LBNYTRK4exwCIkH1/view?usp=sharing" },
           { name: "برمجة سريعة", url: "https://drive.google.com/drive/folders/YOUR_V20_QUICKPROG_LINK" }
         ]
       },
@@ -56,7 +56,7 @@ const dataTree = {
         icon: "bi-hdd-network",
         documents: [
           { name: "اعطال بالعربى", url: "https://drive.google.com/drive/folders/YOUR_MICRO_FAULTS_LINK" },
-          { name: "مانوال", url: "https://drive.google.com/drive/folders/YOUR_MICRO_MANUAL_LINK" },
+          { name: "مانوال", url: "https://drive.google.com/file/d/1uOVBl0-A8WjtKLGyTtn_hqeaQRww38GW/view?usp=sharing" },
           { name: "برمجة سريعة", url: "https://drive.google.com/drive/folders/YOUR_MICRO_QUICKPROG_LINK" }
         ]
       },
@@ -65,7 +65,7 @@ const dataTree = {
         icon: "bi-hdd-network",
         documents: [
           { name: "اعطال بالعربى", url: "https://drive.google.com/drive/folders/YOUR_LSM100_FAULTS_LINK" },
-          { name: "مانوال", url: "https://drive.google.com/drive/folders/YOUR_LSM100_MANUAL_LINK" },
+          { name: "مانوال", url: "https://drive.google.com/file/d/1m54dBlgbUnKW1byDmIULIIkpvereXogz/view?usp=sharing" },
           { name: "برمجة سريعة", url: "https://drive.google.com/drive/folders/YOUR_LSM100_QUICKPROG_LINK" }
         ]
       },
@@ -74,7 +74,7 @@ const dataTree = {
         icon: "bi-hdd-network",
         documents: [
           { name: "اعطال بالعربى", url: "https://drive.google.com/drive/folders/YOUR_IG5A_FAULTS_LINK" },
-          { name: "مانوال", url: "https://drive.google.com/drive/folders/YOUR_IG5A_MANUAL_LINK" },
+          { name: "مانوال", url: "https://drive.google.com/file/d/1_-L1SJHnZJ10HvHMi3BYhrhJWhE7LqDI/view?usp=sharing" },
           { name: "برمجة سريعة", url: "https://drive.google.com/drive/folders/YOUR_IG5A_QUICKPROG_LINK" }
         ]
       },
