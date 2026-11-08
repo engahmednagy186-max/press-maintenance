@@ -12,7 +12,7 @@ const dataTree = {
 		                            
           { name: "اعطال بالعربى", url: "https://drive.google.com/file/d/1l1eYnE-R46dSu-VBcT9RVpu-wvQ3TXfB/view?usp=drive_link" },
           { name: "قطع غيار", url: "https://drive.google.com/file/d/1KSCYVQpswROo185bV9PEbSETJiIt16Pg/view?usp=sharing" },
-          { name: "مانوال", url: "https://drive.google.com/drive/folders/YOUR_OMG_MANUAL_LINK" },
+          
           { name: "اعطال كاملة", url: "https://drive.google.com/file/d/1l1eYnE-R46dSu-VBcT9RVpu-wvQ3TXfB/view?usp=sharing" }
         ]
       },
